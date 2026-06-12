@@ -1,0 +1,3 @@
+= T =
+<script>alert(document.domain)</script>
+[javascript:alert(1) click]
