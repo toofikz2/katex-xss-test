@@ -1,0 +1,5 @@
+#+TITLE: T
+#+BEGIN_EXPORT html
+<script>alert(document.domain)</script>
+#+END_EXPORT
+[[javascript:alert(1)][click]]
