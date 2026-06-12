@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" onload="alert(document.domain)"><script>alert(document.domain)</script><a xlink:href="javascript:alert(1)"><text x="10" y="20">click</text></a><foreignObject><img src=x onerror=alert(document.domain)></foreignObject></svg>
