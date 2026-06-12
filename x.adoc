@@ -1,0 +1,7 @@
+= T
+pass:[<script>alert(document.domain)</script>]
++++<img src=x onerror=alert(document.domain)>+++
+++++
+<script>alert(document.domain)</script>
+++++
+link:javascript:alert(1)[click]
